@@ -1,38 +1,46 @@
-[HolidayCheck] is deeply commited to providing the best experience in online travel for our customers. Our Web Frontend is the most important part of this experience. Come and use your experience and your skills to help us in provide an even better experience to more than 5.000.000 travellers who visit every month as a... 
+[HolidayCheck] is deeply commited to provide our customers with the best possible experience in online travel. We regard our web-frontend as the one most important part of this. If you're the skilled front-end developer we're looking for come join our team to bring a yet improved user experience to 5.000.000 travelers visiting our site each month! 
+As part of the [TOMORROW FOCUS AG] we are driven by the passion to maintain and strengthen our position as one of Europe's leading brands in travel information & booking.  
 
 # Software Engineer Visual Frontend
 
 ## Your Tasks
-- Implement new UX-features, components and widgets for all device types and viewports
+- Implement new features, components and widgets for all devices and viewports
 - Co-Own and maintain structure, styles and all assets of our comprehensive catalog of web components
-- Optimize existing, and apply new designs while ensuring consistent look and feel
-- Help product owners to write great, really concise user stories that yield in fantastic look & feel
-- Drive towards continuous deployment of UX components and swift implementation of design improvements
-
-## Your Profile
-- True mastery of HTML5/ CSS3 on desktop, tablet and phone devices
-- Efficient user of tools like Axure, Balsamiq, Photoshop, Muse, Fireworks
-- Proficient with CSS, also using preprocessors and tools like LESS, SASS or Stylus, Compass
-- Very solid development experience using JavaScript, e.g. read "The Good Parts"
-- Experience with tools like Bower, Webpack, Grunt, Node.js, Karma, Mocha, Selenium, PhantomJS, Browserstack
-- Worked with Frameworks like React.js+Flux, Backbone.js, Angular.js or similar
-- Very good conversational skills in English are mandatory, German is a plus
-- A big plus: Experienced with test driven web development and continuous delivery
+- Optimize existing designs, apply new ones while ensuring consistent look and feel
+- Help product owners write great user stories that result in a fantastic experience (interactions etc.) 
+- Work with an agile team to bring all aspects of UX ahead
+- Drive towards continuous deployment of UX components and quick implementation of design improvements
 
 ## Personal Traits
-- Really good eye for sleek design, cleanliness and consistency
-- Understands users and works stadily to provide them with examplary user experience
-- Able to comprehend and deal with large and complex web projects
-- Can focus on deliverables and small increments but also not afraid of huge changes
-- True agilist, pair programmer and continuous improver
-- Non-religious about specific frameworks, languages or tools
+- You're passionate about users and their experience
+- You have a true understanding of how great UX comes about (UX is not UI)
+- You have a really good eye for sleek design, cleanliness and consistency
+- You're a true agilist, great communicator, pair programmer and continuous improver
+- You're a dedicated software craftsman
+- You're pragmatic and non-religious about specific frameworks, languages or tools
 
-## Apply
-If you happen to be a pragmatic, test-driven software craftsman who likes working on the edge of technology, come and help our outstanding, truly agile development teams in Munich in Germany, or in Bottighofen in Switzerland, who are happy to have you participate in our regular code retreats, and will help you to grow your skillset – as you will help them to grow theirs.
+## Your Skills 
+- True mastery of HTML5/ CSS3 on desktop, tablet and phone devices
+- Efficient use of tools like Axure, Balsamiq, Photoshop, Muse, Fireworks
+- Proficiency with preprocessors like LESS, SASS or Stylus, Compass
+- Very solid development experience using JavaScript, e.g. read "The Good Parts"
+- Experience with tools like Bower, Webpack, Grunt, Node.js, Karma, Mocha, Selenium, PhantomJS, Browserstack
+- Deep knowledge with one at least one Framework like React.js+Flux, Backbone.js, Angular.js or similar
+- Very good conversational skills in English are mandatory, German is a plus
+- A big plus: Experience with test driven web development and continuous delivery
+
+## Our offer
+- Truly agile teams in Munich Germany or Bottighofen Switzerland
+- An open learning environment with regular coding retreats
+- Ample budget for training and conferences
+- A cutting edge technology stack
+- An attractive benefits package including free drinks, subsidized lunch, cheap massages, free coffee & fruit and lots more  
+- A 10% discount for your own bookings on holidaycheck.com
+
+## Apply now
+If you think you're a good match and love making a difference don't hesitate to apply today. 
 
 **Please send a concise resume and your github.com username to careers@holidaycheck.com**
-
-As part of [TOMORROW FOCUS AG], we are able to provide nice perks like free drinks, subsidized lunch, cheap massages, free coffee & fruit. There's also ample budget for trainings, conferences and team events. On top of that, you receive some discount for our own travel offerings.
 
 [HolidayCheck]:http://www.holidaycheck.de
 [TOMORROW FOCUS AG]:http://www.tomorrow-focus.com
